@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm an IT student from Lodz University of Technology in Poland :trophy:. 
 
-- 🔭 I’m currently working on **3D Game Engine** and **Procedural Terrain Generator using Quantum Computation**
+- 🔭 I’m currently working on **2D/3D Game Engine**.
 
 # 💻 Tech Stack:
 
