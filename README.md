@@ -23,4 +23,4 @@ Software able to convert recorded, dynamic point cloud data captured by a moving
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/c0aea5ba-6adc-4a32-926c-47fc84af2816)
 
-## `Projects are closed source. Temporal access can be granted on request.`
+## `The aforementioned projects are closed source. Temporary access can be granted upon request.`
