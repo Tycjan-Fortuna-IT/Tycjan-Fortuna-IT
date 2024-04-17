@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm an IT student from Lodz University of Technology in Poland :trophy:. 
 
-- 🔭 In my free time, I'm passionately developing a 2D/3D Game Engine, continuously refining it through solo experimentation and collaborative efforts in game jams..
+- 🔭 In my free time, I'm passionately developing a 2D/3D Game Engine, continuously refining it through solo experimentation and collaborative efforts in game jams.
 
 ## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,docker,php,postgres,linux,visualstudio" />
