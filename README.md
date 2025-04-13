@@ -9,14 +9,13 @@
 
 - ### High Performance Game Engine and Editor (SW 2)
 In-development game engine built entirely in C++, with a custom OpenGL renderer and high-performance ECS architecture for streamlined development. Additionally, the engine features a native C# (.NET 8.0) scripting engine for flexibility, along with comprehensive editor/runtime support and a GUI editor powered by ImGui. With a strong focus on performance and utilizing a range of libraries, including ENTT, Box2D, glm math, stb, and more.
+### [Source code](https://github.com/Tycjan-Fortuna-IT/SW_II)
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/66173b15-1c05-4456-a046-230018c52a84)
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/2142b10e-5ee9-454a-91eb-ec77b0ceacb7)
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/ff76092d-de2f-444a-8905-6bb2df338fd4)
-
-[Source code](https://github.com/Tycjan-Fortuna-IT/SW_II)
 
 - ### SLAM-based Point Cloud Generation, 3D Triangle Mesh Visualizator (KISS-ICP expansion)
 Software able to convert recorded, dynamic point cloud data captured by a moving robot gathering data using LiDAR into a seamless triangle mesh. Developed using C++ and python, leveraging advanced libraries such as Eigen, TBB, Sophus, and with help of KISS-ICP project, this software offers lightning-fast real-time calculations and visualization of the generated mesh in a 3D environment.
